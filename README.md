@@ -1,1 +1,1 @@
-# commercetools
+# Play ground for commercetools
