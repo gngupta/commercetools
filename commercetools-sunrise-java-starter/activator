@@ -4,6 +4,9 @@
 ###  Helper methods for BASH scripts ###
 ###  ------------------------------- ###
 
+#Fix terminal issue
+export TERM=xterm-color
+
 realpath () {
 (
   TARGET_FILE="$1"
